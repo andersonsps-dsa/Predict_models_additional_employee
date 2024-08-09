@@ -12,4 +12,4 @@ Welcome to the **Predictive Models** project! This repository contains a demonst
 - **Poisson Model**: Ideal for predicting count data or events that occur over a fixed period.
 
 ## 🌐 View:
-[Clieck here](https://predict-models-additional-employee.streamlit.app/).
+[Click here](https://predict-models-additional-employee.streamlit.app/).
