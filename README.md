@@ -11,7 +11,5 @@ Welcome to the **Predictive Models** project! This repository contains a demonst
 - **OLS Model**: Typically used for predicting continuous outcomes.
 - **Poisson Model**: Ideal for predicting count data or events that occur over a fixed period.
 
-## 🌐 Live Demo:
-Check out the live demo of this project using Streamlit [here](https://predict-models-additional-employee.streamlit.app/).
-
-![OLS vs Poisson](https://via.placeholder.com/800x400.png)
+## 🌐 View:
+[Clieck here](https://predict-models-additional-employee.streamlit.app/).
